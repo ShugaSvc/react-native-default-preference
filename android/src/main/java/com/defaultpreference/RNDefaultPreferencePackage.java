@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.defaultpreference;
 
 import java.util.Arrays;
 import java.util.Collections;
